@@ -1,2 +1,1 @@
-# gf
-gg
+print('hello')
